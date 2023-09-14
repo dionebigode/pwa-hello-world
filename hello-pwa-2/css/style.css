@@ -1,0 +1,9 @@
+/*faz a área do conteúdo ocupar a janela inteira*/
+html, 
+.fullscreen {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%
+}
